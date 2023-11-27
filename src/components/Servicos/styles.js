@@ -10,6 +10,7 @@ padding: 25px 100px;
 margin-bottom: 250px;
 
 @media screen and (max-width: 500px){
+    width: 100%;
     height: auto;
     align-items: center;
     justify-content: center;
@@ -49,7 +50,7 @@ p{
     text-align: center;
     flex-direction: column;
     padding: 30px;
-    
+    width: 100%;
 
     p{
         text-align: justify;

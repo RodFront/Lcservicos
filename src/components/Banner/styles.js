@@ -23,7 +23,7 @@ background-image: url('https://plus.unsplash.com/premium_photo-1682148734654-995
     justify-content: center;
     padding: 0;
     margin: 0;
-    width: 90%;
+    width: 100%;
     padding: 10px;
     
       
