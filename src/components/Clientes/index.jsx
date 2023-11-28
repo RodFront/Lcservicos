@@ -19,6 +19,12 @@ const Clientes = () => {
                 <img src="https://media.licdn.com/dms/image/C4D0BAQHYkqq1ZGjHsw/company-logo_200_200/0/1630577946910?e=1709164800&v=beta&t=8iPaXTokjOr-qdIji1nu8_-VbsTp5JYZFx4AlST_hA4" alt="Lidera"></img>
                 <img src="https://scontent.fpll5-1.fna.fbcdn.net/v/t39.30808-6/299985318_481362340664591_5108482922650343077_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=OH1h6FyZ-N0AX-a_a2J&_nc_ht=scontent.fpll5-1.fna&oh=00_AfA8raOIL2RxagMo9smVFNmp9r-Z0C1O2EbA3GM3E-_ECg&oe=656B1BC8" alt="Simoes"></img>
             </Cards>
+            <Cards>
+                <img src="https://logodownload.org/wp-content/uploads/2020/02/cimed-logo.png" alt="cimed"></img>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_prati.png/1200px-Logo_prati.png" alt="prati"></img>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdoDZHmhSKckLjbJSDOkoXE-ewB36AkiO3C4Kz4pJuQ&s" alt="sasmet"></img>
+                <img src="https://www.eqsengenharia.com.br/storage/app/media/LOGO-PNG-01.png" alt="eqs"></img>
+            </Cards>
             
         </Container>
 
