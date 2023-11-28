@@ -4,6 +4,7 @@ import Banner from "./components/Banner";
 import Servicos from "./components/Servicos";
 import Sections from "./components/Sections";
 import Empresa from "./components/Empresa";
+import Clientes from "./components/Clientes";
 function App() {
   return (
     <div>
@@ -12,6 +13,8 @@ function App() {
       <Sections title="Serviços"/>
       <Servicos />
       <Empresa/>
+      <Sections title="Nossos Clientes"/>
+      <Clientes />
       <Global />
     </div>
   );

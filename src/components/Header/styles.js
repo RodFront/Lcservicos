@@ -19,18 +19,9 @@ background-color: var(--white);
     width: 100%;
    ul{
     flex-direction: column;
-    width: 100%;
     
-    }
-
-  
-
-   img{
-
-    padding: 5px;
-   }
-   
-  
+    
+    } 
 
 }
 `
